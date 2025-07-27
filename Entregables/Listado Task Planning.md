@@ -24,3 +24,24 @@ Esta es una colección de artículos y capítulos de expertos en el campo de la 
 "Principles of Artificial Intelligence" por Nils J. Nilsson
 Aunque no está centrado únicamente en la planificación, este libro proporciona una sólida introducción a muchos conceptos de inteligencia artificial, incluida la planificación. Ofrece ejemplos y ejercicios para la práctica.
 Estos libros te brindarán una base sólida en la planificación automática en inteligencia artificial y deberían contener ejemplos y ejercicios que te permitirán practicar y aplicar los conceptos que aprendas. Recuerda que la práctica activa y la experimentación son clave para comprender profundamente estos temas. ¡Espero que encuentres estos recursos útiles!
+
+https://anna.fi.muni.cz/data/pres/2018-autumn/11_planning_and_acting.pdf
+
+Juan David Hernández Vega
+8:28
+http://tmkit.kavrakilab.org
+Juan David Hernández Vega
+8:32
+https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
+Juan David Hernández Vega
+8:41
+https://www.kavrakilab.org/publications/wang2021-online-partial-conditional-plan-synthesis.pdf
+
+https://github.com/caelan/pddlstream?tab=readme-ov-file
+https://pypi.org/project/pyperplan/1.0/
+https://github.com/cl-axon/shop2?tab=readme-ov-file#papers-
+
+https://github.com/aibasel/downward?tab=readme-ov-file
+https://arxiv.org/abs/1802.08705
+https://github.com/aibasel/pyperplan
+https://github.com/cl-axon/shop2?tab=readme-ov-file#papers-
